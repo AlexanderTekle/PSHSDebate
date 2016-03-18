@@ -360,7 +360,7 @@ Hero
 ========================================================================== */
 .hero {
   min-height: 750px;
-  background: url("../img/gradient.png")  no-repeat center center;
+  background: url("http://i.imgur.com/aXImw5S.jpg")  no-repeat center center;
   background-size: cover;
   position: relative; }
   .hero .down-arrow a {
