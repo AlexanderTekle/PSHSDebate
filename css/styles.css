@@ -438,8 +438,8 @@ header {
   color: #fff;
   font-size: 30px;
   position: absolute;
-  bottom: 100px;
-  left: 50%;
+  bottom: 50px;
+  left: 49.79%;
   -webkit-transform: translateX(-50%);
       -ms-transform: translateX(-50%);
           transform: translateX(-50%); }
