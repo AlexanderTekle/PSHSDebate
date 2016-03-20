@@ -8,6 +8,9 @@ Typography
 #register {
   color:white;
 }
+#harvard {
+  margin-left: 620px;
+  margin-top: 50px;
 }
 p {
   font-size: 15px;
@@ -522,8 +525,8 @@ Features-stack
     right: 61%; }
 
 .features .responsive-feature-img, .features-extra .responsive-feature-img {
-  display: none; }
-
+  /*display: none; }*/
+}
 .devices {
   position: relative; }
 
