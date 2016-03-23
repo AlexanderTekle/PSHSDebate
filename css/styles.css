@@ -8,8 +8,12 @@ Typography
 #register {
   color:white;
 }
+#bcolor 
+{
+background-color:#701010;
+}
 #registerform {
-  margin-top:200px;
+  margin-top:0px;
 }
 #harvard {
   margin-left: 620px;
