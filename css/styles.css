@@ -3,7 +3,7 @@
 @import url(http://fonts.googleapis.com/css?family=Nunito:400,300,700);
 /* ==========================================================================
 Typography
-========================================================================== */
+========================================================================== */AV
 
 #register {
   color:white;
@@ -665,8 +665,8 @@ Features-stack
   background: url("../img/gradient.png")  no-repeat center center;
   background-size: cover; }
   .testimonial-slider .avatar {
-    width: 82px;
-    height: 82px;
+    width: 150px;
+    height: 150px;
     margin: 0 auto;
     vertical-align: middle;
     overflow: hidden;
@@ -674,7 +674,7 @@ Features-stack
     border: solid 3px #fff;
     background-color: #fff; }
     .testimonial-slider .avatar img {
-      width: 82px;
+      width: 150px;
       height: auto; }
   .testimonial-slider h2 {
     color: #fff;
